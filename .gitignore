@@ -54,6 +54,12 @@ temp/
 *.sqlite
 *.db
 
+# Local scratch files
+work/*
+!work/.gitkeep
+
+# User-facing generated outputs are tracked by default.
+
 # Local automation/runtime artifacts
 .codex-local/
 .agents-local/
